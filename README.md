@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Developer | Agentic Systems Explorer👾<br><br>🚀 Not just building apps — building systems that think, adapt, and scale.<br>🧩 Currently working on: LLM-powered retrieval system & AI-driven projects<br>☕ Strong believer in: *Code. Commit. Coffee. Repeat.<br><br><br>⚡Push it harder… (git push -f) that’s what she said.
+MERN Stack Developer | Agentic Systems Explorer👾<br><br>🚀 Not just building apps — building systems that think, adapt, and scale.<br>🧩 Currently working on: LLM-powered retrieval system & AI-driven projects<br>☕ Strong believer in: Code. Commit. Coffee. Repeat.<br><br>⚡Push it harder… (git push -f) that’s what she said.
 
 
 ## 🌐 Socials:
