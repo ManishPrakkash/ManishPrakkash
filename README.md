@@ -1,5 +1,5 @@
-# 💫 About Me:
-MERN Stack Developer | Agentic Systems Explorer👾<br><br>🚀 Not just building apps — building systems that think, adapt, and scale.<br>🧩 Currently working on: LLM-powered retrieval system & AI-driven projects<br>☕ Strong believer in: Code. Commit. Coffee. Repeat.<br><br>⚡Push it harder… (git push -f) that’s what she said.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=450&size=26&pause=1000&color=25F741&background=031116&center=true&vCenter=true&width=480&height=80&lines=Hello+World%F0%9F%91%8B+I'm+Manish;AI+Agents%F0%9F%A4%96%7CDevSecOps%E2%9A%99%EF%B8%8F%7CMERN%F0%9F%9A%80;Turning+%E2%98%95into+scalable+code%F0%9F%91%BE)](https://git.io/typing-svg)
+<br>🚀 Not just building apps — building systems that think, adapt, and scale.<br>🧩 Currently working on: LLM-powered retrieval system & AI-driven projects<br>☕ Strong believer in: Code. Commit. Coffee. Repeat.<br><br>⚡Push it harder… (git push -f) that’s what she said.
 
 
 ## 🌐 Socials:
